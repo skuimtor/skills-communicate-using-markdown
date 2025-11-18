@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-### Communicate using Markdown
+# Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -33,7 +33,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-### Example
+##### Example
 
 ```md
 # This is an `<h1>` header, which is the largest
